@@ -1,0 +1,14 @@
+print("Hesap Makinesine Hoşgeldiniz")
+a = float(input("İlk Sayıyı Giriniz:"))
+b = float(input("İkinci Sayıyı Giriniz:"))
+
+toplama = a + b
+cıkarma = a - b
+carpma = a * b
+bolme = a / b
+
+
+print("Toplama İşlemi Sonucu :",toplama)
+print("Çıkarma İşlemi Sonucu :",cıkarma)
+print("Çarpma İşlemi Sonucu :",carpma)
+print("Bölme İşlemi Sonucu :",bolme)
